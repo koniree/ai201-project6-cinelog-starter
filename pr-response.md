@@ -64,7 +64,7 @@ e28032d refactor: rename save_to_watchlist to add_to_watchlist
 
 `git log --merges origin/main..HEAD` is empty — no merge commits on the branch.
 
-<img width="350" height="108" alt="image" src="https://github.com/user-attachments/assets/3409181d-aaa5-49bb-9733-d5c078ceb52b" />
+<img width="595" height="193" alt="image" src="https://github.com/user-attachments/assets/5f750848-30ad-4723-967b-26c3204f4c00" />
 
 
 ## PR Description
